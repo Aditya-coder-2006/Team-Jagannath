@@ -1,4 +1,4 @@
-# Video Chronological Sorting System
+# Chronological Video Frame Sorting System
 
 This repository provides a production-ready, modular PyTorch training and inference pipeline for predicting the correct chronological order of shuffled video frames. 
 
